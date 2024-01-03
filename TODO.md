@@ -1,11 +1,13 @@
 ### Tasks
 
-- [ ] Profile section
+- [x] Profile section
   - [ ] Replace with actual resume
 - [x] About section
 - [x] Experience section
-- [ ] Projects section
-- [ ] Contact section
+- [x] Projects section
+  - [ ] Add actual projects
+- [x] Contact section
 - [ ] Footer
 - [ ] Responsive design
+- [ ] Adjust indicator arrow position
 - [ ] Deploy
