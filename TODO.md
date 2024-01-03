@@ -8,6 +8,6 @@
   - [ ] Add actual projects
 - [x] Contact section
 - [x] Footer
-- [ ] Responsive design
+- [x] Responsive design
 - [ ] Adjust indicator arrow position
 - [ ] Deploy
