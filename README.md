@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="demo-screenshot.png" alt="project-screenshot" width="600" height="400/">
+<img src="demo-screenshot.png" alt="project-screenshot" width="800" height="400/">
 
   
   
