@@ -7,7 +7,7 @@
 - [x] Projects section
   - [ ] Add actual projects
 - [x] Contact section
-- [ ] Footer
+- [x] Footer
 - [ ] Responsive design
 - [ ] Adjust indicator arrow position
 - [ ] Deploy
